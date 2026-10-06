@@ -119,7 +119,7 @@ These are stated explicitly because the report flags them and they matter for ho
 
 ### Run the training notebook
 
-pip install torch numpy pandas scikit-learn matplotlib (installing the required libraries)
-jupyter notebook robotics_model.ipynb
+1. pip install torch numpy pandas scikit-learn matplotlib (installing the required libraries)
+2. jupyter notebook robotics_model.ipynb
 OR
 upload robotics_model.ipynb to Google Colab and run all cells. Total runtime is under one minute on CPU.
