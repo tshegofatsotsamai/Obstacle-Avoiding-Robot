@@ -4,6 +4,9 @@
 
 A final-year Artificial Intelligence module project combining a **LEGO SPIKE Prime physical prototype** with a **PyTorch neural-network classifier** trained to imitate a rule-based obstacle-avoidance policy. The project explores reactive robotic control, supervised learning, and the gap between simulation-trained models and real-world deployment.
 
+A live demonstration of the robot:
+https://github.com/user-attachments/assets/7fb89a5e-ce7d-4ea9-9e35-37d6ec49b5d0
+
 ---
 
 ## Overview
